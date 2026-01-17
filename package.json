@@ -1,0 +1,16 @@
+{
+  "name": "create-api-in-nodejs",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "studies witch API, MongoDB and NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
